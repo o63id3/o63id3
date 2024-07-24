@@ -24,7 +24,6 @@ I am continuously learning and improving my skills. Currently, I am diving deepe
 
 ## 📫 Get in Touch
 Feel free to reach out to me for collaborations or just a friendly chat:
-- [X](https://x.com/7osaiin)
 - [Email](mailto:hussein.eliewa@icloud.com)
 
 Thanks for stopping by!
