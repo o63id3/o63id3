@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer passionate about web devel
 Here are a few projects I've been working on:
 
 ### Posty
-A simple social media semi-facebook app
+A simple social media semi-Facebook app
 
 ### Noon SaaS (early development)
 SaaS app that foucses on accounting
