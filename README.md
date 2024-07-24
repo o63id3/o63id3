@@ -19,6 +19,7 @@ SaaS app that foucses on accounting
 ## 🧠 Learning & Development
 I am continuously learning and improving my skills. Currently, I am diving deeper into:
 - State management with pinia
+- Broadcasting with Laravel reverb
 - Backend development with Laravel and RESTful APIs
 
 ## 📫 Get in Touch
