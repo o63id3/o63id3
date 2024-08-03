@@ -14,7 +14,7 @@ Here are a few projects I've been working on:
 A simple social media semi-Facebook app
 
 ### Noon SaaS (early development)
-SaaS app that foucses on accounting
+Accounting SaaS app
 
 ## 🧠 Learning & Development
 I am continuously learning and improving my skills. Currently, I am diving deeper into:
