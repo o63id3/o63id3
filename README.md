@@ -13,7 +13,7 @@ Here are a few projects I've been working on:
 ### Posty
 A simple social media semi-Facebook app
 
-### Noon SaaS (early development)
+### Noon (early development)
 Accounting SaaS app
 
 ## 🧠 Learning & Development
