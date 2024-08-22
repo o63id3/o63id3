@@ -10,6 +10,9 @@ Welcome to my GitHub profile! I'm a Computer Engineer passionate about web devel
 ## 🚀 Projects
 Here are a few projects I've been working on:
 
+### TickTick
+A simple task managment app
+
 ### Posty
 A simple social media semi-Facebook app
 
